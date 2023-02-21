@@ -1,0 +1,7 @@
+# emacs
+.projectile
+.cache
+
+
+# build
+build/
